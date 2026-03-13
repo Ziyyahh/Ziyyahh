@@ -2,8 +2,8 @@
 
 **Data Analytics Graduate Student · Data Analyst**
 
-🎓 Master of Data Analytics — University of Niagara Falls, Canada  
-🏛️ B.Eng. Electrical & Electronics Engineering — Bells University of Technology, Nigeria  
+🎓 Master of Data Analytics - University of Niagara Falls, Canada  
+🏛️ B.Eng. Electrical & Electronics Engineering - Bells University of Technology, Nigeria  
 📍 Niagara Falls, Ontario, Canada  
 📧 jimohfawziyyah@gmail.com
 
@@ -42,7 +42,7 @@ When I'm not buried in notebooks, I share what I learn online, documenting my gr
 ## 🚀 Featured Projects
 
 ### 🏀 [NBA Game Outcome Predictor](<!-- link -->)
-Scraped 7 seasons (2016–2022) of NBA box score data from Basketball Reference and built a classification model using `RidgeClassifier` with rolling feature engineering to predict game winners. Achieved ~65% accuracy — meaningful signal above random baseline.  
+Scraped 7 seasons (2016–2022) of NBA box score data from Basketball Reference and built a classification model using `RidgeClassifier` with rolling feature engineering to predict game winners. Achieved ~65% accuracy, meaningful signal above random baseline.  
 `Python` `BeautifulSoup` `Scikit-learn` `Pandas` `Feature Engineering`
 
 
