@@ -61,12 +61,6 @@ Multi-page interactive Power BI dashboard with slicers, drill-throughs, and cust
 `Power BI` `DAX` `Data Modeling` `Storytelling`
 
 
-## 📈 GitHub Stats
-
-![Fawziyyah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true)
-
-
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fawziyyah-jimoh/)
