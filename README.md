@@ -50,6 +50,9 @@ Scraped 7 seasons (2016–2022) of NBA box score data from Basketball Reference 
 Competition project analyzing 279,000+ trees across Hamilton's 15 wards. Built a 5-axis species vulnerability scoring framework, applied RCP8.5 climate projections to 2080, and produced ward-level risk maps and replanting recommendations aligned with the City of Hamilton Urban Forest Strategy.  
 `Python` `GeoPandas` `Matplotlib` `Seaborn` `Climate Science`
 
+###⚡ [Monthly Electricity Consumption Predictor]((https://github.com/Ziyyahh/Electricity-Prediction))
+End-to-end machine learning pipeline predicting monthly electricity usage (kWh) across a multi-building portfolio. Merged meter, property, and usage datasets, engineered temporal and building-level features, applied log transformation to stabilize skewed targets, and compared Linear Regression, Random Forest, and Gradient Boosting models using RMSE, MAE, and R².
+Python Pandas Scikit-learn Feature Engineering Regression
 
 ### 🎗️ [Breast Cancer Classification Pipeline](<!-- link -->)
 End-to-end ML pipeline on the Wisconsin Diagnostic dataset. Applied SMOTE for class imbalance, trained Logistic Regression, Decision Tree, Random Forest, and XGBoost models, and generated evaluation plots (ROC curves, confusion matrices) exported for APA-formatted reporting.  
